@@ -15,5 +15,7 @@ public  @Data class EmployeeType {
 	int id;
 	
 	String description;
+	
+	String deptCode;
 
 }
